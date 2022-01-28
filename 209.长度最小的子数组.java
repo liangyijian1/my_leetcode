@@ -33,11 +33,6 @@ class Solution {
         }
         return min;
     }
-
-    public static void main(String[] args) {
-        int[] k = {1,1,1,1,7};
-        System.out.println(new Solution().minSubArrayLen(7, k));
-    }
 }
 // @lc code=end
 
